@@ -6,5 +6,10 @@ public class MainExtended {
         boolean isGoodKids = true;
         char quantityBruise = '9';
         double celaHeight = 1.40;
+        System.out.println(myKidsName);
+        System.out.println(antekAge);
+        System.out.println(isGoodKids);
+        System.out.println(quantityBruise);
+        System.out.println(celaAge);
     }
 }
