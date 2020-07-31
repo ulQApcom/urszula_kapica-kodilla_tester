@@ -7,6 +7,7 @@ public class MainExtended {
         char quantityBruise = '9';
         double celaHeight = 1.40;
         System.out.println(myKidsName);
+        System.out.println(celaAge);
         System.out.println(antekAge);
         System.out.println(isGoodKids);
         System.out.println(quantityBruise);
