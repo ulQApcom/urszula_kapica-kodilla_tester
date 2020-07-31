@@ -11,6 +11,6 @@ public class MainExtended {
         System.out.println(antekAge);
         System.out.println(isGoodKids);
         System.out.println(quantityBruise);
-        System.out.println(celaAge);
+        System.out.println(celaHeight);
     }
 }
